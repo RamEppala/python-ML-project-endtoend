@@ -58,4 +58,15 @@ Finally, we test the model on the unseen data (test data) set.
 
 Finally, ensemble models to arrive final predictions.
 
+Installation: 
+
+1. download python2 or 3
+2. download Anaconda2 for windows and install Jupyter notebook from Amazon Navigator for coding and running python.
+
+for jupyter notebook  password:
+
+1. run  "jupyter notebook list" command from anaconda prompt 
+2. copy and paste second token to launch jupyter notebook  
+
+
 
